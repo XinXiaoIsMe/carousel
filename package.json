@@ -1,0 +1,20 @@
+{
+  "name": "carousel",
+  "version": "1.0.0",
+  "description": "carousel plugin developed by native javascript",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "keywords": [
+    "carousel",
+    "vite",
+    "javascript"
+  ],
+  "author": "ccattempt",
+  "license": "MIT",
+  "devDependencies": {
+    "sass": "^1.62.1",
+    "vite": "^4.3.5"
+  }
+}
